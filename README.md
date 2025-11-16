@@ -1,2 +1,2 @@
 # fnaf-ai
-fnaf
+If you want to run this, download python (https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe, it will download directly if you enter this) and press setup.bat, right-click on your computer and press open in the terminal, then type python fnafai.py.
